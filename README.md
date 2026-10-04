@@ -1,4 +1,4 @@
-# NEO-SHIBUYA
+[neo-shibuya.theme.css](https://github.com/user-attachments/files/33030534/neo-shibuya.theme.css)# NEO-SHIBUYA
 A custom Japanese-inspired Discord theme for Vencord, featuring a Tokyo Night aesthetic, neon accents, and a sleek modern interface.
 
 # 🌙 Tokyo Night — Vencord Theme
@@ -60,3 +60,6 @@ Feel free to open an **Issue** if you find a bug or have a suggestion.
 ### 🌃 Made for Discord & Vencord
 
 **Tokyo Night —  neon, Japanese-inspired.**
+
+
+
